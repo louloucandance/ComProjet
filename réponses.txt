@@ -1,0 +1,126 @@
+expérience pro : 
+loulou : 
+-alternance à CGX
+-stage à CGX
+-petits boulots étudiants
+Yoann :
+-Alternance à CGX
+-Stage de recherche en web sémantique à l'IRIT
+-Stage de recherche à l'Université d'Aberdeen (Ecosse)
+
+Cursus scolaire :
+Loulou
+-Licence MIASHS informatique
+-Bac ES
+
+yoyo
+-licence MIASHS informatique
+-DUT d'informatique
+-Bac STI2D
+
+informations personnelles :
+célibataire
+sans enfant
+Permis B pour moi
+
+PERSONNALITE : 
+dirigeant
+médiateur
+Esprit : 
+lou : 85% extraverti / 15% introverti
+yoann:33/67
+Energie : 
+lou : 66% intuitif / 34% observateur
+yoann : 59/41
+Nature : 
+lou : 50% pensée/Sentiment
+yoann : 26/74
+Tactique : 
+lou : 65% jugement / 35% prospection
+yoann : 22/78
+Identité : 
+lou : 35% Assuré / Prudent 65%
+yoann : 22/78
+
+ATTENTES :
+Professionnelles : 
+loulou :
+travailler à l'étranger à long terme
+CAPES informatique après le master
+
+yoann :
+contribuer à un projet qui met en valeur mon travail
+
+Personnelles :
+loulou
+Du voyage !
+
+yoyo :
+épanouissement et musique
+
+COMPETENCES
+dev logiciel : 
+             loulou       yoyo
+java           5           8
+c++            9           4
+python         6           8
+haskell        4           
+BDD
+sql            7           7
+postgre        5           5
+web
+html           8           5
+js             5           7
+angular        4           7
+langues
+allemand       -           3
+anglais        7           9
+espagnol       8           -
+autres compétences 
+photoshop      8           -
+
+SAVOIR FAIRE et SAVOIR ETRE
+Savoir etre :
+
+Organisation   00
+tenue prof     11
+prévenance     01
+protection     11
+vigilance      01
+respect        01
+maturite       11
+assiduite      11
+autonomie      11
+partage d'info 11
+debrouillardise11
+patient        01
+jugement       00
+intégrité      11
+changement     01
+initiative     10
+audace         10
+esprit équipe  11
+polyvalence    11
+
+Savoir faire :
+sites web
+logiciel
+test
+gestion de BDD
+communication
+échanges professionnels
+
+centre d'intérêts :
+loulou : Photographie, danse, natation, cinéma
+yoann : jv, musique
+itinéraire professionnel passé 
+
+-Alternance à CGX
+-Stage de recherche en web sémantique à l'IRIT
+-Stage de recherche à l'Université d'Aberdeen (Ecosse)
+
+influences :
+Loulou :
+Ada Lovelace, 
+
+Yoann : Gabe Newell
