@@ -1,7 +1,44 @@
-articles {
-    border-color : blue;
+
+.all{
+  margin : -20px;
+  padding: 40px;
+  font-family: "Gill Sans", sans-serif;
 }
-h3 { 
-    padding : 0 px;
-    margin : 0px;
+.progress{
+  background-color: blue;
+  width:inherit;
+  height: 5px;
+}
+h1,h2,h3,h4,h5{
+  color: #547D38;
+  font-variant: small-caps;
+}
+.nav{
+  background-color: #547D38;
+}
+li{
+  padding: 10px;
+  margin-left: 10px;
+  background-color: #8AB070;
+  display: inline-block;
+}
+a{
+  text-decoration: none;
+  color: #ECE6D4;
+}
+
+article{
+  padding: 10px;
+  margin : 10px;
+  background-color: #ECE6D4;
+  width: 30%;
+  max-width: 300px;
+  min-width: 150px;
+}
+
+body{
+  display: flex;
+  justify-content: space-around;
+  align-content : flex-start;
+  flex-wrap: wrap;
 }
