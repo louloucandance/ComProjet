@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Projet Communication';
+  cpt = 0;
 
   louise = {
     surname : 'Louise',
@@ -172,7 +173,15 @@ export class AppComponent {
 
   }
 
+  cki = [this.louise, this.yoann];
 
+  yoyotoggle(){
+    this.cpt = 1;
+  }
+
+  louloutoggle(){
+    this.cpt = 0;
+  }
 
 
 
