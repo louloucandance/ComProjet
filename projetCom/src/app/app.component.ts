@@ -35,26 +35,26 @@ export class AppComponent {
     attentesPro : "Travailler à l'étranger à long terme. CAPES informatique apres le master.",
     attentesPerso : "Du voyage !",
     competencesProg : [
-      {"Java" : 5},
-      {"C++" : 9},
-      {"Python" : 6},
-      {"Haskell" : 4}
+      {name : "Java" , value : 5},
+      {name : "C++", value :9},
+      {name : "Python" , value :6},
+      {name : "Haskell" , value :4}
     ],
     competencesBDD : [
-      {"SQL" : 7},
-      {"Postgre" : 5}
+      {name : "SQL", value : 7},
+      {name : "Postgre", value : 5}
     ],
     competencesWeb : [
-      {"HTML5/CSS3" : 8},
-      {"JS" : 5},
-      {"Angular" : 4}
+      {name : "HTML5/CSS3", value : 8},
+      {name : "JS", value : 5},
+      {name : "Angular", value : 4}
     ],
     competencesLangues : [
-      {"Anglais" : 7},
-      {"Espagnol" : 9}
+      {name : "Anglais", value : 7},
+      {name : "Espagnol", value : 9}
     ],
     competencesAutres : [
-      {"Photoshop" : 8}
+      {name : "Photoshop", value : 8}
     ],
     savoirEtre : ["Tenue Professionnelle",
     "Protection",
@@ -98,8 +98,8 @@ export class AppComponent {
   }
 
   yoann = {
-    surname : 'Gathignol',
-    name : 'Yoann',
+    surname : 'Yoann',
+    name : 'Gathignol',
     age : '23',
     exPro : ["Alternance à CGX",
             "Stage de recherche en web sémantique",
@@ -121,25 +121,25 @@ export class AppComponent {
     attentesPro : "Contribuer à un projet qui met en valeur mon travail.",
     attentesPerso : "Épanouissement et musique.",
     competencesProg : [
-      {"Java" : 8},
-      {"C++" : 4},
-      {"Python" : 8},
-      {"Haskell" : 3}
+      {name : "Java", value : 8},
+      {name : "C++" , value : 4},
+      {name : "Python" , value : 8},
+      {name : "Haskell" , value :3}
     ],
     competencesBDD : [
-      {"SQL" : 7},
-      {"Postgre" : 5}
+      {name : "SQL" , value :7},
+      {name : "Postgre", value : 5}
     ],
     competencesWeb : [
-      {"HTML5/CSS3" : 5},
-      {"JS" : 7},
-      {"Angular" : 7}
+      {name : "HTML5/CSS3", value : 5},
+      {name : "JS", value :7},
+      {name : "Angular", value : 7}
     ],
     competencesLangues : [
-      {"Anglais" : 9},
-      {"Allemand" : 3}
+      {name : "Anglais", value : 9},
+      {name : "Allemand" , value : 3}
     ],
-    competencesAutres : [],
+    competencesAutres:null,
     savoirEtre : ["Tenue Professionnelle",
     "Protection",
     "Vigilance",
@@ -161,7 +161,7 @@ export class AppComponent {
     "Échanges professionnels"    
   ],
   interets : [
-    "Jeux Vidéos",
+    "Jeux Vidéos Compétitifs",
     "Musique"
   ],
   itineraire :  ["Alternance à CGX",
@@ -182,8 +182,6 @@ export class AppComponent {
   louloutoggle(){
     this.cpt = 0;
   }
-
-
 
 
 
